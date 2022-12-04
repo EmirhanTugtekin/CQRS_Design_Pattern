@@ -1,0 +1,8 @@
+D:\Belgelerim\yazılım\Murat Yücedağ Eğitim\projects\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.csproj.AssemblyReference.cache
+D:\Belgelerim\yazılım\Murat Yücedağ Eğitim\projects\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgelerim\yazılım\Murat Yücedağ Eğitim\projects\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.AssemblyInfoInputs.cache
+D:\Belgelerim\yazılım\Murat Yücedağ Eğitim\projects\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.AssemblyInfo.cs
+D:\Belgelerim\yazılım\Murat Yücedağ Eğitim\projects\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.csproj.CoreCompileInputs.cache
+D:\Belgelerim\yazılım\Murat Yücedağ Eğitim\projects\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Belgelerim\yazılım\Murat Yücedağ Eğitim\projects\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.RazorAssemblyInfo.cache
+D:\Belgelerim\yazılım\Murat Yücedağ Eğitim\projects\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.RazorAssemblyInfo.cs
